@@ -4,3 +4,4 @@ plugins {
 rootProject.name = "DesignPatternsAndBestPractices"
 include("structural")
 include("behavioral")
+include("creational")
